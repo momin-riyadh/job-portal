@@ -1,4 +1,4 @@
-/* Template Name: Jobnova - Job Board & Job Portal Bootstrap 5 Template
+/* Template Name: Job Portal - Job Board & Job Portal for Enterprise
    Author: Shreethemes
    Email: support@shreethemes.in
    Website: https://shreethemes.in
